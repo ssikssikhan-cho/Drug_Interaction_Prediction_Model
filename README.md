@@ -41,7 +41,7 @@ Drug_Interaction_Prediction_Model
     * C. 데이터 셋 A 자체에서의 학습 및 예측 성능 평가 지표는 아래에 삽입하였습니다.
     * D. 데이터 셋 B 에는 질병카테고리가 없었기 때문에 학습된 모델을 이용해 질병을 예측한 후 결과를 결합하여 return 하였습니다.
 
-
+```
 * 카테고리                     precision    recall  f1-score   support(실제 데이터 수)
 
 * 간 관련                       0.96      0.90      0.93      3690
@@ -73,3 +73,4 @@ Drug_Interaction_Prediction_Model
 * accuracy(정확도)                                  0.91      
 * macro avg(평균성능)            0.91      0.93      0.91      
 * weighted avg(가중 평균 성능)    0.92      0.91      0.91     
+```
