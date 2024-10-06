@@ -1,4 +1,5 @@
-Drug_Interaction_Prediction_Model
+# Drug_Interaction_Prediction_Model
+###
 약물 혼합복용시 부자용을 예측하는 모델입니다.
 DATA SET 은 DUR(식약품 안전사용 서비스)에서 추출하였으며, 메타데이터의 양은 대략 70만개 입니다.
 
